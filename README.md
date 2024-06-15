@@ -36,3 +36,8 @@ low inertia and high torque for acceleration
 Here's my ouput using a simulation software using TinkerCad:
 
 ![servo](https://github.com/le-nicolas/basics/assets/112614851/5d4c63c8-08f8-4eea-9a04-af93e2b0b129)
+
+schematic view:
+
+![image](https://github.com/le-nicolas/basics/assets/112614851/8a3aa14d-417d-44be-b488-e39cce592987)
+
